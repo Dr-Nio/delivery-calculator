@@ -1,0 +1,38 @@
+{
+	"name": "@DrNio/delivery-calculator",
+	"version": "1.0.0",
+	"description": "A realistic delivery calculator optimized for **Group-buy e-commerce platforms**.",
+	"keywords": [
+		"calculator",
+		"delivery",
+		"ship",
+		"shipping",
+		"shipment",
+		"shipments",
+		"commerce",
+		"ecommerce",
+		"e-commerce",
+		"Group-buy",
+		"platform",
+		"shop",
+		"shops",
+		"shopper",
+		"shoppers",
+		"shopping",
+		"pay",
+		"payment",
+		"buy",
+		"buyer",
+		"buyers",
+		"compute",
+		"distance",
+		"rate"
+	],
+	"license": "ISC",
+	"author": "DrNio",
+	"type": "commonjs",
+	"main": "src/index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	}
+}
