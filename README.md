@@ -14,4 +14,4 @@ It prevents unrealistic high delivery charges by:
 ## Install
 
 ```bash
-npm install naija-groupbuy-shipping
+npm install @DrNio/delivery-calculator
