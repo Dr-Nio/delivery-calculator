@@ -26,13 +26,13 @@ This package is designed specifically for **Group-buy platforms** to keep delive
 # 📦 Installation
 
 ```bash
-npm install @dr-nio/delivery-calculator
+npm install @dr-nio/delivery-calculator@2.0.0
 ```
 
 or
 
 ```bash
-yarn add @dr-nio/delivery-calculator
+yarn add @dr-nio/delivery-calculator@2.0.0
 ```
 
 ---
