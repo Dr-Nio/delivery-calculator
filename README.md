@@ -54,7 +54,7 @@ All ENV values are optional.
 # 🧩 Usage (Simple Example)
 
 ```javascript
-import { calculateDeliveryFee } from "nigeria-delivery-fee";
+import { calculateDeliveryFee } from "@dr-nio/delivery-calculator";
 
 const result = calculateDeliveryFee({
   weightKg: 50,                       // weight of items
