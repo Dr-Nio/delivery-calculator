@@ -111,7 +111,7 @@ const result = calculateDeliveryFee({
 Some group members pick up, others need dispatch.
 
 ```javascript
-import { calculateMultiUserDelivery } from "nigeria-delivery-fee";
+import { calculateMultiUserDelivery } from "@dr-nio/delivery-calculator";
 
 const users = [
   {
