@@ -14,4 +14,4 @@ It prevents unrealistic high delivery charges by:
 ## Install
 
 ```bash
-npm install @DrNio/delivery-calculator
+npm install @dr-nio/delivery-calculator
